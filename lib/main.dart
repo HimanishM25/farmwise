@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
         ),
       ),
       themeMode: ThemeMode.system,
-      title: 'Ceres',
+      title: 'Farmwise',
       home:RegisterScreen(),
     );
   }
